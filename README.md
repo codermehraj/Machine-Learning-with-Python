@@ -1,4 +1,4 @@
-## Machine Learning Assignments using Python
+# Machine Learning Assignments using Python
 
 ### Class Assignments
 - [Matrix Differentiation Math](https://github.com/codermehraj/Machine-Learning-with-Python/blob/main/Assignments/Class%20Assignments/Matrix%20Differentiation/Chain%20Rule%20Assignment%202019831074.pdf)
